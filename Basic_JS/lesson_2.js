@@ -1,0 +1,2 @@
+var ourName;
+var myName;
